@@ -8,7 +8,7 @@
 * Version: 2.0.1
 * Requires PHP: 7.0^
 * Author: Brevis Nguyen
-* Author URI: https://github.com/brevis-ng
+* Author URI: https://github.com/brevis-ng/crawl-nguontv-toroplay
 */
 
 // Protect plugins from direct access. If this file is called directly, abort.
@@ -29,7 +29,7 @@ set_time_limit(0);
 if ( defined( 'PLUGIN_NAME_VERSION' ) ) {
     $version = PLUGIN_NAME_VERSION;
 } else {
-    $version = '1.0.0';
+    $version = '2.0.1';
 }
 define('PLUGIN_NAME', 'movies-crawler');
 define('VERSION', $version);
