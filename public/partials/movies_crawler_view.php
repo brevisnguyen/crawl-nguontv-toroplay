@@ -85,7 +85,7 @@ $plugin_path = plugin_dir_url( __DIR__ );
                         </div>
                     </div>
                     <div class="card-footer mt-4">
-                        <h6>Nếu có lỗi xảy ra hoặc cần yêu cầu chức năng mới hãy: <a target="_blank" href="https://github.com/brevis-ng/crawl-nguontv/issues/new">Báo Lỗi/Thêm Chức Năng</a></h6>
+                        <h6>Nếu có lỗi xảy ra hoặc cần yêu cầu chức năng mới hãy: <a target="_blank" href="https://github.com/brevis-ng/crawl-nguontv-toroplay/issues/new">Báo Lỗi/Thêm Chức Năng</a></h6>
                     </div>
                 </div>
             </div>
